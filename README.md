@@ -1,3 +1,5 @@
-#Livro de receitas
+# Livro de receitas
 
 Olá, bem vindo.
+
+Estudando Git
