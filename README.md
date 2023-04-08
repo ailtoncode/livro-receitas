@@ -2,4 +2,4 @@
 
 Olá, bem vindo.
 
-Estudando Git
+Estudando Git/GitHub
