@@ -1,7 +1,6 @@
 # Livro de receitas
 
-Olá, bem vindo.
-Estudando Git/GitHub
-Conflito resolvido
+Olá, bem vindo.<br>
+Estudando Git/GitHub<br>
 
-<h1>teste pull request</h1>
+Neste repositório, foram realizados alguns testes de pull requests e resolução de conflitos.
